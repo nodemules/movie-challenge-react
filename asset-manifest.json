@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd58f987.css",
-    "main.js": "/static/js/main.0b18cdf4.js",
-    "static/js/787.13048d1e.chunk.js": "/static/js/787.13048d1e.chunk.js",
-    "index.html": "/index.html",
-    "main.cd58f987.css.map": "/static/css/main.cd58f987.css.map",
-    "main.0b18cdf4.js.map": "/static/js/main.0b18cdf4.js.map",
-    "787.13048d1e.chunk.js.map": "/static/js/787.13048d1e.chunk.js.map"
+    "main.css": "/movie-challenge-react/static/css/main.cd58f987.css",
+    "main.js": "/movie-challenge-react/static/js/main.7bd04b36.js",
+    "static/js/787.13048d1e.chunk.js": "/movie-challenge-react/static/js/787.13048d1e.chunk.js",
+    "index.html": "/movie-challenge-react/index.html",
+    "main.cd58f987.css.map": "/movie-challenge-react/static/css/main.cd58f987.css.map",
+    "main.7bd04b36.js.map": "/movie-challenge-react/static/js/main.7bd04b36.js.map",
+    "787.13048d1e.chunk.js.map": "/movie-challenge-react/static/js/787.13048d1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd58f987.css",
-    "static/js/main.0b18cdf4.js"
+    "static/js/main.7bd04b36.js"
   ]
 }
