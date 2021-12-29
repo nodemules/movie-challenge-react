@@ -1,6 +1,6 @@
 import React, {useCallback, useContext, useState} from "react";
 import ApiContext from "./ApiContext";
-import {Button, Form, FormControl, FormGroup, FormLabel} from "react-bootstrap";
+import {Button, FormControl, FormGroup, FormLabel} from "react-bootstrap";
 
 const ApiKeySettings = () => {
     const {key: apiKey, keyOperations: {set, clear}} = useContext(ApiContext)
